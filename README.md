@@ -16,4 +16,4 @@ During our workshop, each Participant will access MATLAB, an AI Agent, and learn
 Who Should Attend
 This workshop can benefit anyone interested in how to get started with AI and use it to solve practical financial or economic modeling problems.
 
-Regsitration Link: [Link](https://www.mathworks.com/company/events/seminars/building-intelligent-financial-workflows-with-agentic-ai-and-matlab-5509800.html)
+Registration Link: [Link](https://www.mathworks.com/company/events/seminars/building-intelligent-financial-workflows-with-agentic-ai-and-matlab-5509800.html)
